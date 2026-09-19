@@ -1,0 +1,19 @@
+div p{
+    color: rgb(202,50,99);
+}
+
+.box{
+    background-color: yellow;
+}
+
+button:hover{
+    color:red;
+}
+
+input[type="email"]{
+    border:30px solid pink;
+}
+
+h3::before{
+content: "☆⭐"
+}
